@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cohasset.mawaterwatch.org/sitemap.xml
